@@ -111,7 +111,7 @@ plays an important role in applying large-scale data analysis, deep learning to 
 ### Kenny Cha
 *Assistant Director, U.S. Food and Drug Administration (FDA)*
 
-<div class="bio-image"><img src="/images/k-cha.jpg"/></div>
+<div class="bio-image"><img src="/SC22/images/k-cha.jpg"/></div>
 
 Kenny H. Cha is the Assistant Director for Software and High-Performance Computing in the Division of Imaging,
 Diagnostics, and Software Reliability within the U.S. Food and Drug Administration, Center for Devices and Radiological
